@@ -9,7 +9,7 @@ console.log('***** Object Practice *****')
   - Also give it an array 'favThreeFoods'
 */
 const brii = {
-  height: 'Five foot one inch',
+  height: `5'1"`,
   hair: 'curly dark blonde',
   age: 36
   // TODO - add properties here
